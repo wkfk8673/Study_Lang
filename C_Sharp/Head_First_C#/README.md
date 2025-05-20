@@ -7,4 +7,5 @@
 
 
 ### 기타 메모
-- [**블로그 링크**](https://rollinginsleep.tistory.com/2)
+- [**#01**](https://rollinginsleep.tistory.com/2)
+- [**#02**](https://rollinginsleep.tistory.com/3)
