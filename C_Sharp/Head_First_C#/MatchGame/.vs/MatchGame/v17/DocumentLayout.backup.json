@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\",
+  "WorkspaceRootPath": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\MatchGame\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{6BAA472A-6764-416C-93D5-21077492315D}|MatchGame\\MatchGame.csproj|c:\\users\\kangt\\projects\\study_lang\\c_sharp\\head_first_c#\\matchgame\\matchgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -9,13 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BAA472A-6764-416C-93D5-21077492315D}|MatchGame\\MatchGame.csproj|c:\\users\\kangt\\projects\\study_lang\\c_sharp\\head_first_c#\\matchgame\\matchgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BAA472A-6764-416C-93D5-21077492315D}|MatchGame\\MatchGame.csproj|solutionrelative:matchgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BAA472A-6764-416C-93D5-21077492315D}|MatchGame\\MatchGame.csproj|c:\\users\\kangt\\projects\\study_lang\\c_sharp\\head_first_c#\\matchgame\\matchgame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BAA472A-6764-416C-93D5-21077492315D}|MatchGame\\MatchGame.csproj|solutionrelative:matchgame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kangt\\AppData\\Local\\Temp\\.vsdbgsrc\\24c86bd98e5719a23f2ba55f85d6d28c98fb45abfb91e4f60c9542081fab181f\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,40 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "XamlReader.cs",
-              "DocumentMoniker": "C:\\Users\\kangt\\AppData\\Local\\Temp\\.vsdbgsrc\\24c86bd98e5719a23f2ba55f85d6d28c98fb45abfb91e4f60c9542081fab181f\\XamlReader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\24c86bd98e5719a23f2ba55f85d6d28c98fb45abfb91e4f60c9542081fab181f\\XamlReader.cs",
-              "ToolTip": "C:\\Users\\kangt\\AppData\\Local\\Temp\\.vsdbgsrc\\24c86bd98e5719a23f2ba55f85d6d28c98fb45abfb91e4f60c9542081fab181f\\XamlReader.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\24c86bd98e5719a23f2ba55f85d6d28c98fb45abfb91e4f60c9542081fab181f\\XamlReader.cs",
-              "ViewState": "AgIAAO4BAAAAAAAAAAAawP4BAAACAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:31:35.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\App.xaml",
-              "RelativeDocumentMoniker": "MatchGame\\App.xaml",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\App.xaml",
-              "RelativeToolTip": "MatchGame\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-18T14:38:16.695Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MatchGame\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml",
               "RelativeToolTip": "MatchGame\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-18T14:20:00.854Z",
@@ -68,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MatchGame\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\MatchGame\\MatchGame\\MainWindow.xaml.cs",
               "RelativeToolTip": "MatchGame\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAApwDsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T14:20:00.43Z",
               "EditorCaption": ""
