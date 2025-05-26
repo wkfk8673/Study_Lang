@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\kangt\Projects\Study_lang\C_Sharp\Head_First_C#\MatchGame\MatchGame\obj\Debug\net8.0-windows\
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\MatchGame\MatchGame\obj\Debug\net8.0-windows\
 MatchGame
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\kangt\Projects\Study_lang\C_Sharp\Head_First_C#\MatchGame\MatchGame\App.xaml
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\MatchGame\MatchGame\App.xaml
 11407045341
 
-4-1082328659
-198-211836927
+6-524880520
+396-423673854
 MainWindow.xaml;
 
 False
