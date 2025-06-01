@@ -3,3 +3,13 @@ C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\C
 C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\PickRandomCards.AssemblyInfo.cs
 C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\PickRandomCards.csproj.CoreCompileInputs.cache
 C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\PickRandomCards.sourcelink.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\bin\Debug\net8.0\PickRandomCards.exe
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\bin\Debug\net8.0\PickRandomCards.deps.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\bin\Debug\net8.0\PickRandomCards.runtimeconfig.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\bin\Debug\net8.0\PickRandomCards.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\bin\Debug\net8.0\PickRandomCards.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\PickRandomCards.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\refint\PickRandomCards.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\PickRandomCards.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\PickRandomCards.genruntimeconfig.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Chapter3\Chapter3\obj\Debug\net8.0\ref\PickRandomCards.dll
