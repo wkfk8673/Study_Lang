@@ -1,0 +1,15 @@
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\bin\Debug\net8.0\Pizzazz.exe
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\bin\Debug\net8.0\Pizzazz.deps.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\bin\Debug\net8.0\Pizzazz.runtimeconfig.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\bin\Debug\net8.0\Pizzazz.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\bin\Debug\net8.0\Pizzazz.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.AssemblyInfoInputs.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.AssemblyInfo.cs
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.csproj.CoreCompileInputs.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.sourcelink.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\refint\Pizzazz.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\Pizzazz.genruntimeconfig.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterThree\Pizzazz\Pizzazz\obj\Debug\net8.0\ref\Pizzazz.dll
