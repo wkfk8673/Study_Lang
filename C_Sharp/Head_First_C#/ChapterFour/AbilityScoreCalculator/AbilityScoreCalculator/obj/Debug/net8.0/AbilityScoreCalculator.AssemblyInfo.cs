@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PickRandomCards")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AbilityScoreCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bf2a07c39affb89177fac50a53bc8b8f81eaf16")]
-[assembly: System.Reflection.AssemblyProductAttribute("PickRandomCards")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PickRandomCards")]
+[assembly: System.Reflection.AssemblyProductAttribute("AbilityScoreCalculator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AbilityScoreCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
