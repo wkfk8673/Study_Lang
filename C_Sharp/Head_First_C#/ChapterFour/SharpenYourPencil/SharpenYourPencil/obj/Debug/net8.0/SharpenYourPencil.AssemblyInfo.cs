@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AbilityScoreCalculator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SharpenYourPencil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe0da192a14e22b6fa906f7b31f84485d51601f5")]
-[assembly: System.Reflection.AssemblyProductAttribute("AbilityScoreCalculator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AbilityScoreCalculator")]
+[assembly: System.Reflection.AssemblyProductAttribute("SharpenYourPencil")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SharpenYourPencil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

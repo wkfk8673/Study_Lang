@@ -1,0 +1,15 @@
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\bin\Debug\net8.0\SharpenYourPencil.exe
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\bin\Debug\net8.0\SharpenYourPencil.deps.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\bin\Debug\net8.0\SharpenYourPencil.runtimeconfig.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\bin\Debug\net8.0\SharpenYourPencil.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\bin\Debug\net8.0\SharpenYourPencil.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.AssemblyInfoInputs.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.AssemblyInfo.cs
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.csproj.CoreCompileInputs.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.sourcelink.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\refint\SharpenYourPencil.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\SharpenYourPencil.genruntimeconfig.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\Head_First_C#\ChapterFour\SharpenYourPencil\SharpenYourPencil\obj\Debug\net8.0\ref\SharpenYourPencil.dll
