@@ -1,0 +1,75 @@
+﻿using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Documents.Serialization;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace SwordDamage_WPF_Part_1
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        Random random = new Random();
+        SwordDamage swordDamage = new SwordDamage();
+        
+        public MainWindow()
+        {
+            InitializeComponent();
+            swordDamage.SetMagic(false);
+            swordDamage.SetFlaming(false);
+            RollDice();
+            
+        }
+
+        public void RollDice()
+        {
+            swordDamage.Roll = random.Next(1, 7) + random.Next(1, 7) + random.Next(1, 7);
+            DisplayDamage();
+        }
+
+        public void DisplayDamage()
+        {
+            damage.Text = "Rolled " + swordDamage.Roll + " for " + swordDamage.Damage + " HP";
+        }
+
+        private void Button_Clicked(object sender, RoutedEventArgs e)
+        {
+            RollDice();
+        }
+
+        private void Flaming_Checked(object sender, RoutedEventArgs e)
+        {
+            swordDamage.SetFlaming(true);
+            DisplayDamage();
+        }
+
+        private void Flaming_UnChecked(object sender, RoutedEventArgs e)
+        {
+            swordDamage.SetFlaming(false);
+            DisplayDamage();
+
+        }
+
+        private void Magic_Checked(object sender, RoutedEventArgs e)
+        {
+            swordDamage.SetMagic(true);
+            DisplayDamage();
+        }
+
+        private void Magic_UnChecked(object sender, RoutedEventArgs e)
+        {
+            swordDamage.SetMagic(false);
+            DisplayDamage();
+        }
+
+
+    }
+}
