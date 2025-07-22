@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\ChapterSix\\WeaponDamage_Part_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD4FA90-5E40-4831-90EB-B59D1FCD1AA3}|WeaponDamage_Part_1\\WeaponDamage_Part_1.csproj|c:\\users\\kangt\\projects\\study_lang\\c_sharp\\head_first_c#\\chaptersix\\weapondamage_part_1\\weapondamage_part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD4FA90-5E40-4831-90EB-B59D1FCD1AA3}|WeaponDamage_Part_1\\WeaponDamage_Part_1.csproj|solutionrelative:weapondamage_part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\ChapterSix\\WeaponDamage_Part_1\\WeaponDamage_Part_1\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponDamage_Part_1\\Program.cs",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\C_Sharp\\Head_First_C#\\ChapterSix\\WeaponDamage_Part_1\\WeaponDamage_Part_1\\Program.cs",
+              "RelativeToolTip": "WeaponDamage_Part_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:56:26.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
