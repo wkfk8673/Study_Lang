@@ -56,7 +56,7 @@ int main()
 
 	uint32_t num32 = numeric_limits<uint32_t>::max();
 	uint32_t num32_ = num32 + 1;
-	
+
 	cout << num32 << endl;
 	cout << num32_ << endl;
 
@@ -97,5 +97,4 @@ int main()
 	cout << "num1 : " << num1 << endl;
 	cout << "num2 : " << num2 << endl;
 	cout << "num3 : " << num3 << endl;
-
 }
