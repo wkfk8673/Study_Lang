@@ -24,12 +24,24 @@
     <ClCompile Include="GreedyMakeOne.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GreedyPlusORMultiple.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GreedyGuild.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GreedyChange.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="GreedyMakeOne.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GreedyPlusORMultiple.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GreedyGuild.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

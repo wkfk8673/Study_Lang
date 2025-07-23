@@ -128,12 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GreedyChange.cpp" />
+    <ClCompile Include="GreedyGuild.cpp" />
     <ClCompile Include="GreedyMakeOne.cpp" />
+    <ClCompile Include="GreedyPlusORMultiple.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GreedyChange.h" />
+    <ClInclude Include="GreedyGuild.h" />
     <ClInclude Include="GreedyMakeOne.h" />
+    <ClInclude Include="GreedyPlusORMultiple.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
