@@ -127,17 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GreedyBowling.cpp" />
     <ClCompile Include="GreedyChange.cpp" />
     <ClCompile Include="GreedyGuild.cpp" />
     <ClCompile Include="GreedyMakeOne.cpp" />
     <ClCompile Include="GreedyPlusORMultiple.cpp" />
+    <ClCompile Include="GreedyString.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GreedyBowling.h" />
     <ClInclude Include="GreedyChange.h" />
     <ClInclude Include="GreedyGuild.h" />
     <ClInclude Include="GreedyMakeOne.h" />
     <ClInclude Include="GreedyPlusORMultiple.h" />
+    <ClInclude Include="GreedyString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

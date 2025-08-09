@@ -1,0 +1,15 @@
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\bin\Debug\net8.0\studyCS.exe
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\bin\Debug\net8.0\studyCS.deps.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\bin\Debug\net8.0\studyCS.runtimeconfig.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\bin\Debug\net8.0\studyCS.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\bin\Debug\net8.0\studyCS.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.AssemblyInfoInputs.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.AssemblyInfo.cs
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.csproj.CoreCompileInputs.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.sourcelink.json
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\refint\studyCS.dll
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.pdb
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\studyCS.genruntimeconfig.cache
+C:\Users\kangt\Projects\Study_Lang\C_Sharp\AlgorithmStudy\studyCS\studyCS\obj\Debug\net8.0\ref\studyCS.dll

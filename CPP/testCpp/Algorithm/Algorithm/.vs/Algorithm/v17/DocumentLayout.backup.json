@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyGuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\travel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|solutionrelative:Implement\\travel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyChange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|solutionrelative:Implement\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyPlusORMultiple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyPlusORMultiple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|solutionrelative:Implement\\knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyMakeOne.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyMakeOne.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyGuild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyPlusORMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyPlusORMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\travel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|solutionrelative:Implement\\travel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6746A95-886C-49B4-996B-BBEEFA6EBC79}|Implement\\Implement.vcxproj|solutionrelative:Implement\\knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyGuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyMakeOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyMakeOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyBowling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyBowling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyChange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyMakeOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyMakeOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyBowling.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyBowling.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyChange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07AFF922-E596-4AA0-8455-29B6DC251F9A}|Greedy\\Greedy.vcxproj|solutionrelative:Greedy\\GreedyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +66,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreedyString.cpp",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyString.cpp",
+              "RelativeDocumentMoniker": "Greedy\\GreedyString.cpp",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyString.cpp",
+              "RelativeToolTip": "Greedy\\GreedyString.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T17:21:14.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "knight.cpp",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\knight.cpp",
+              "RelativeDocumentMoniker": "Implement\\knight.cpp",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\knight.cpp",
+              "RelativeToolTip": "Implement\\knight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T12:03:23.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\main.cpp",
+              "RelativeDocumentMoniker": "Implement\\main.cpp",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\main.cpp",
+              "RelativeToolTip": "Implement\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T11:03:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "travel.cpp",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\travel.cpp",
+              "RelativeDocumentMoniker": "Implement\\travel.cpp",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\travel.cpp",
+              "RelativeToolTip": "Implement\\travel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T11:03:49.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GreedyGuild.cpp",
               "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.cpp",
               "RelativeDocumentMoniker": "Greedy\\GreedyGuild.cpp",
               "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.cpp",
               "RelativeToolTip": "Greedy\\GreedyGuild.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-22T22:08:44.132Z",
               "EditorCaption": ""
@@ -64,53 +136,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GreedyGuild.h",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.h",
-              "RelativeDocumentMoniker": "Greedy\\GreedyGuild.h",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyGuild.h",
-              "RelativeToolTip": "Greedy\\GreedyGuild.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-22T22:08:25.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GreedyPlusORMultiple.cpp",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyPlusORMultiple.cpp",
-              "RelativeDocumentMoniker": "Greedy\\GreedyPlusORMultiple.cpp",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyPlusORMultiple.cpp",
-              "RelativeToolTip": "Greedy\\GreedyPlusORMultiple.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\main.cpp",
+              "RelativeDocumentMoniker": "Greedy\\main.cpp",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\main.cpp",
+              "RelativeToolTip": "Greedy\\main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-22T21:49:06.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GreedyPlusORMultiple.h",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyPlusORMultiple.h",
-              "RelativeDocumentMoniker": "Greedy\\GreedyPlusORMultiple.h",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyPlusORMultiple.h",
-              "RelativeToolTip": "Greedy\\GreedyPlusORMultiple.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-22T21:44:56.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GreedyMakeOne.h",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyMakeOne.h",
-              "RelativeDocumentMoniker": "Greedy\\GreedyMakeOne.h",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyMakeOne.h",
-              "RelativeToolTip": "Greedy\\GreedyMakeOne.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-22T11:01:53.417Z",
+              "WhenOpened": "2025-07-22T10:58:31.25Z",
               "EditorCaption": ""
             },
             {
@@ -123,37 +156,25 @@
               "RelativeToolTip": "Greedy\\GreedyMakeOne.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-22T11:01:40.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GreedyChange.h",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.h",
-              "RelativeDocumentMoniker": "Greedy\\GreedyChange.h",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.h",
-              "RelativeToolTip": "Greedy\\GreedyChange.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-22T10:58:41.684Z",
+              "WhenOpened": "2025-07-22T11:01:40.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\main.cpp",
-              "RelativeDocumentMoniker": "Greedy\\main.cpp",
-              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\main.cpp",
-              "RelativeToolTip": "Greedy\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GreedyBowling.cpp",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyBowling.cpp",
+              "RelativeDocumentMoniker": "Greedy\\GreedyBowling.cpp",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyBowling.cpp",
+              "RelativeToolTip": "Greedy\\GreedyBowling.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-22T10:58:31.25Z",
+              "WhenOpened": "2025-07-30T10:40:35.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GreedyChange.cpp",
               "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.cpp",
               "RelativeDocumentMoniker": "Greedy\\GreedyChange.cpp",
@@ -161,7 +182,76 @@
               "RelativeToolTip": "Greedy\\GreedyChange.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-22T10:57:41.654Z"
+              "WhenOpened": "2025-07-22T10:57:41.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GreedyChange.h",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.h",
+              "RelativeDocumentMoniker": "Greedy\\GreedyChange.h",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyChange.h",
+              "RelativeToolTip": "Greedy\\GreedyChange.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T10:58:41.684Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "knight.h",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\knight.h",
+              "RelativeDocumentMoniker": "Implement\\knight.h",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\knight.h",
+              "RelativeToolTip": "Implement\\knight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T12:03:37.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "travel.h",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\travel.h",
+              "RelativeDocumentMoniker": "Implement\\travel.h",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Implement\\travel.h",
+              "RelativeToolTip": "Implement\\travel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T11:38:49.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GreedyBowling.h",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyBowling.h",
+              "RelativeDocumentMoniker": "Greedy\\GreedyBowling.h",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyBowling.h",
+              "RelativeToolTip": "Greedy\\GreedyBowling.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T10:41:06.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GreedyString.h",
+              "DocumentMoniker": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyString.h",
+              "RelativeDocumentMoniker": "Greedy\\GreedyString.h",
+              "ToolTip": "C:\\Users\\kangt\\Projects\\Study_Lang\\CPP\\testCpp\\Algorithm\\Algorithm\\Greedy\\GreedyString.h",
+              "RelativeToolTip": "Greedy\\GreedyString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-23T17:20:02.484Z"
             }
           ]
         }
