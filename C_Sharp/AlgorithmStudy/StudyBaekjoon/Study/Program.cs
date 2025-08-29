@@ -2,14 +2,12 @@
 {
     static void Main(string[] args)
     {
-        string[] num = Console.ReadLine()!.Split();
-        int A = int.Parse(num[0]);
-        int B = int.Parse(num[1]);
-        int C = int.Parse(num[2]);
+        int X = int.Parse(Console.ReadLine()!);
+        int Y = int.Parse(Console.ReadLine()!);
 
-        Console.WriteLine((A + B) % C);
-        Console.WriteLine(((A % C) + (B % C)) % C);
-        Console.WriteLine((A * B) % C);
-        Console.WriteLine(((A % C) * (B % C)) % C);
+        if (X > 0 && Y > 0) Console.WriteLine("1");
+        else if (X < 0 && Y > 0) Console.WriteLine("2");
+        else if (X > 0 && Y < 0) Console.WriteLine("4");
+        else if (X < 0 && Y < 0) Console.WriteLine("3");
     }
 }
